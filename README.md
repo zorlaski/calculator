@@ -1,5 +1,6 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://dev.azure.com/ORLASKIZT18/Github%20Integration%20Lab/_apis/build/status/zorlaski.calculator?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/ORLASKIZT18/Github%20Integration%20Lab/_build/latest?definitionId=4&branchName=refs%2Fpull%2F2%2Fmerge)
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
